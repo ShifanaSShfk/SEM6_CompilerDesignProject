@@ -1,0 +1,7 @@
+BcsMain{
+    int a;
+    a=b+c*d+e*f;
+    c=10+a*c;
+    f=g+h;
+    i=j
+}

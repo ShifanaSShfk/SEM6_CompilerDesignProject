@@ -1,0 +1,21 @@
+BcsMain{
+    int a;
+    int b;
+    int c;
+    a=10;
+    d=78+22;
+    b=20;
+    c=c+2;
+    d=c*10;
+    e=a+b*c+10;
+    if(a+c>b){
+        b=b*8;
+        c=30
+    }
+    else{
+        while(c!=10){
+            c=c+1
+        }
+    };
+    d=100
+}

@@ -1,0 +1,14 @@
+t1=c*d
+t2=b+t1
+t3=e*f
+t4=t2+t3
+a=t4
+
+t5=a*c
+t6=10+t5
+c=t6
+
+t7=g+h
+f=t7
+
+i=j
